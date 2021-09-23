@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Project 1 for\bin\Debug\net5.0\Project 1 for.exe
+C:\Users\User\Desktop\Project 1 for\bin\Debug\net5.0\Project 1 for.deps.json
+C:\Users\User\Desktop\Project 1 for\bin\Debug\net5.0\Project 1 for.runtimeconfig.json
+C:\Users\User\Desktop\Project 1 for\bin\Debug\net5.0\Project 1 for.runtimeconfig.dev.json
+C:\Users\User\Desktop\Project 1 for\bin\Debug\net5.0\Project 1 for.dll
+C:\Users\User\Desktop\Project 1 for\bin\Debug\net5.0\ref\Project 1 for.dll
+C:\Users\User\Desktop\Project 1 for\bin\Debug\net5.0\Project 1 for.pdb
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\Project 1 for.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\Project 1 for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\Project 1 for.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\Project 1 for.AssemblyInfo.cs
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\Project 1 for.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\Project 1 for.dll
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\ref\Project 1 for.dll
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\Project 1 for.pdb
+C:\Users\User\Desktop\Project 1 for\obj\Debug\net5.0\Project 1 for.genruntimeconfig.cache
