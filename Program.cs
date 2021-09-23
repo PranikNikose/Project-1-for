@@ -6,7 +6,8 @@ namespace Project_1_for
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hii Pranik");
+            Console.WriteLine("Hii Pranik");
+            Console.WriteLine("Hello Everyone");
         }
     }
 }
